@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @InfectiousGerm
-- 👀 I’m interested in ur mom
-- 🌱 I’m currently learning more about ur mom
-- 💞️ I’m looking to collaborate on ur mom
-- 📫 How to reach me, ask ur mom
+- 👋 Hi, I’m @ekqiu
+- 👀 I’m interested in full stack developments.
+- 📫 Reach me via my socials (`@ekqiu` on Twitter and Instagram), or send a email to `infectious@duck.com`.
 
 <!---
 InfectiousGerm/InfectiousGerm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
