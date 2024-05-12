@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekqiu
-- 🧑‍🎓 I am currently a student.
-- 📫 Reach me via my socials (`@ekqiu` on Threads and Instagram), or send a email to `ekqiu@duck.com`.
+- 🧑‍🎓 I am currently a student at BPGHS.
+- 📫 Reach me via my socials (`@ekqiu` on Threads and Instagram), or send a email to `evankhee@ymail.com`.
 
 <!---
 InfectiousGerm/InfectiousGerm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
